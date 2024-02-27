@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\مشروع التخرج.props" />
+</Project>

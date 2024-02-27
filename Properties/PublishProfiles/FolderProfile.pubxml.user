@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\C#\APIRecomendation\project\APIRecomendation\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2024-02-27T09:06:30.6973124Z;True|2024-02-27T11:02:01.4906404+02:00;True|2024-02-27T11:00:23.7383958+02:00;True|2024-02-27T10:57:35.3735512+02:00;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+</Project>
